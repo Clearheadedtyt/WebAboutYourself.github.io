@@ -27,9 +27,8 @@
     .bg-primary{
     background-color:#343a40!important
     }
-    /*header style*/
     .header{
-    background-image: url('../images/111.jpg');
+    background-image: url('111.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
